@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Eustaquio from Brazil (🇧🇷). I've been working as Front-End and Back-End Developer since 2001 and currently I'm estudo "Sitemas de Informação" at [COTEMIG](https://cotemig.com.br). Nesta fase acadêmica tenho desenvolvido projetos propostos pelos mestres.
+My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at [COTEMIG] (https://cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
 
-In my free time I like to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a "taça de vinho" (🍺).
+In my free time I like to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to reflect on life with a glass of wine (🍺).
 
 <!--
 Would you like to find me?
