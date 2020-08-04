@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- 
+[![Twitter Badge](https://img.shields.io/badge/-@jemsantos-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jemsantos)](https://twitter.com/jemsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-José%20Eustaquio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-eustaquio-santos/)](https://www.linkedin.com/in/jose-eustaquio-santos/) 
+[![Gmail Badge](https://img.shields.io/badge/-eustaquio.cadastros@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eustaquio.cadastros@gmail.com)](mailto:eustaquio.cadastros@gmail.com) -->
+
 <!--
 **jemsantos/jemsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +32,14 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
 -->
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jemsantos)](https://github.com/jemsantos)
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!) -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eustaquio.cadastros@gmail.com)](mailto:eustaquio.cadastros@gmail.com)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
