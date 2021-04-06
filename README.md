@@ -36,7 +36,8 @@ Would you like to find me?
 ## About me Social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jemsantos)](https://github.com/jemsantos)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eustaquio.cadastros@gmail.com)](mailto:eustaquio.cadastros@gmail.com)
- 
+<a href="https://instagram.com/jemsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!) -->
@@ -47,7 +48,7 @@ Would you like to find me?
 
 ###
 
-## Olá! Eu sou José Eustaquio 
+## My Statistics 
 <a href="https://github.com/jemsantos">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jemsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jemsantos&layout=compact&langs_count=8&theme=dracula"/>
@@ -58,12 +59,11 @@ Would you like to find me?
   <img align="center" alt="Jemsantos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jemsantos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jemsantos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jemsantos-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
   
-  <div>
+  <!-- div>
   <a href = "mailto: eustaquio.cadastros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jemsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+</div -->
