@@ -51,6 +51,11 @@ Would you like to find me?
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jemsantos&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 <div style="display: inline_block">
+ 
+ ###
+ 
+## My Programming Languages
+ 
 <br>
   <img align="center" alt="Jemsantos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jemsantos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -67,8 +72,8 @@ Would you like to find me?
   <a href="https://instagram.com/jemsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div -->
 
+## Thanks
 - Thanks for visiting. 
- 
 - Enjoy it!! o/
 
 ###
