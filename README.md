@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at ![COTEMIG](htps://cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
+My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at ![COTEMIG](htps://www.cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
 
 In my free time I like to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to reflect on life with a glass of wine (🍺).
 
@@ -55,16 +55,15 @@ Would you like to find me?
  ###
  
 ## My Programming Languages
- 
 <br>
-  <img align="center" alt="Jemsantos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jemsantos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jemsantos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jemsantos-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jemsantos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jemsantos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jemsantos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jemsantos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jemsantos-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
 ###
   
   <!-- div>
