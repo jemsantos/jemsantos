@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at [COTEMIG] (https://cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
+My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at ![COTEMIG](htps://cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
 
 In my free time I like to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to reflect on life with a glass of wine (🍺).
 
@@ -42,9 +42,6 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!) -->
 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
 
 ###
 
@@ -52,7 +49,9 @@ Would you like to find me?
 <a href="https://github.com/jemsantos">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jemsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jemsantos&layout=compact&langs_count=8&theme=dracula"/>
-<div style="display: inline_block"><br>
+</a>
+<div style="display: inline_block">
+<br>
   <img align="center" alt="Jemsantos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jemsantos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jemsantos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -61,9 +60,15 @@ Would you like to find me?
   <img align="center" alt="Jemsantos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+###
   
   <!-- div>
   <a href = "mailto: eustaquio.cadastros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jemsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div -->
+
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
+
+###
