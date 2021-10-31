@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at ![COTEMIG](htps://www.cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
+My name is José Eustaquio from Brasil (🇧🇷). I have been working as a front-end and back-end developer since 2001 and I am currently studying Information Systems at [COTEMIG](htps://www.cotemig.com.br). In this academic phase I develop projects proposed by the masters to improve my knowledge and my GitHub profile.
 
 In my free time I like to watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to reflect on life with a glass of wine (🍺).
 
