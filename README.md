@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea94b4&height=120&section=header"/>
+
 ### Hi there 👋
 
 <!-- 
@@ -76,3 +78,4 @@ Would you like to find me?
 - Enjoy it!! o/
 
 ###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea94b4&height=120&section=footer"/>
