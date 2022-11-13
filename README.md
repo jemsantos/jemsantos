@@ -78,10 +78,11 @@ Would you like to find me?
 - Enjoy it!! o/
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jemsantos}/count.svg" /></p>
-  <br>
 </div>
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=120&section=footer"/>
+
+<!-- h ttps://g ithub.com/carolbarbosa101/carolbarbosa101 -->
