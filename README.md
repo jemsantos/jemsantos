@@ -55,10 +55,6 @@ Would you like to find me?
 
 ## My Programming Languages
 <div style="display: inline_block">
- 
- ###
-
-<br>
   <img align="center" alt="Jemsantos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jemsantos-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jemsantos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
