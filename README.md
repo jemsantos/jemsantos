@@ -52,11 +52,12 @@ Would you like to find me?
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jemsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jemsantos&layout=compact&langs_count=8&theme=dracula"/>
 </a>
+
+## My Programming Languages
 <div style="display: inline_block">
  
  ###
- 
-## My Programming Languages
+
 <br>
   <img align="center" alt="Jemsantos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jemsantos-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
